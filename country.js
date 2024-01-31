@@ -1,3 +1,4 @@
+//country
 var country_arr = new Array("nigeria", "Albania", "Algeria", "American Samoa", "Angola", "Anguilla", "Antartica", "Antigua and Barbuda", "Argentina", "Armenia");
 
 // States
